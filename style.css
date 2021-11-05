@@ -17,16 +17,17 @@ body {
     border: 1px solid #b0c4de;
     border-bottom: none;
     border-radius: 10px 10px 0px 0px;
-    padding: 20px;
+    padding: 30px;
 }
 
 form {
     width: 30%;
     margin: 0 auto;
-    padding: 20px;
+    padding: 30px;
     border: 1px solid #b0c4de;
     background: white;
     border-radius: 0px 0px 10px 10px;
+    text-align: center;
 }
 
 .homeheader {
@@ -43,7 +44,7 @@ form {
 }
 
 .input-group {
-    margin: 10px 0px 10px 0px;
+    margin: 10px 0px 10px 10px;
 }
 
 .input-group label {
@@ -62,7 +63,7 @@ form {
 }
 
 .btn {
-    padding: 10px;
+    padding: 15px;
     font-size: 15px;
     color: white;
     background: #5f9ea0;
